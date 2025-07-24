@@ -24,7 +24,7 @@ export default function CallToAction({
     <div className={className}>
       <div className="text-center my-8 md:my-10">
         <a
-          href={getCheckoutUrl('https://secure.vnsh.com/vns3qdbonus/checkout')}
+          href={getCheckoutUrl('https://secure.vnsh.com/vns3qdbonus2/checkout')}
           className="inline-block"
         >
           <button className="bg-[#28a745] hover:bg-[#218838] text-white font-bold py-4 px-8 text-xl md:py-3 md:px-10 md:text-3xl transition-all duration-300 animate-custom-pulse hover:opacity-100 hover:scale-105 transform">
